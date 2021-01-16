@@ -12,9 +12,9 @@ module.exports = function (data) {
             // Derpibooru Settings
             booru: {
                 version: 1,
-                id: 'derpibooru',
-                name: 'Derpibooru',
-                url: 'https://derpibooru.org',
+                id: 'furbooru',
+                name: 'Furbooru',
+                url: 'https://furbooru.org',
                 tagListVar: 'tags',
                 idVar: 'id',
             },
