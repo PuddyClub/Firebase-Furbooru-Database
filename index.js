@@ -11,6 +11,7 @@ module.exports = function (data) {
 
             // Derpibooru Settings
             booru: {
+                filter_id: 2,
                 version: 1,
                 id: 'furbooru',
                 name: 'Furbooru',
