@@ -1,6 +1,6 @@
 {
   "name": "@tinypudding/firebase-furbooru-database",
-  "version": "1.0.17",
+  "version": "1.0.18",
   "description": "Script to synchronize data from Furbooru with Firebase Database Realtime.",
   "main": "index.js",
   "scripts": {
